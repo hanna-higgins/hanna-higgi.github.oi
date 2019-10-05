@@ -1,0 +1,51 @@
+ul {
+    color:black;
+    font-size: 17px;
+    line-height: 2;
+    list-style: none;
+    
+    
+}
+
+h1 {
+    color:#ffcc99;
+    text-align: center;
+    font-size: 55px;
+    font-family: Georgia , fantasy;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color:#ff9999;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+text-align: center; 
+    
+}
+
+img {
+  display: ;
+  margin: 0 auto;
+  max-width: 100%;
+  
+}
+
+/* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
