@@ -18,56 +18,85 @@ h1 {
 }
 
 body {
-  
-  margin: 0 auto;
-  background-color:#ccccff;
-  padding: 50px;
-  border: 5px solid black;
-text-align: center; 
-    
+    margin: 0 auto;
+    background-color:#ccccff;
+    padding: 50px;
+    border: 5px solid black;
+    text-align: center; 
+      
 }
 
 img {
-  display: ;
-  margin: 0 auto;
-  max-width: 100%;
+    display: ;
+    margin: 0 auto;
+    max-width: 100%;
   
 }
 
-aside {border: 5px dashed; background-color: whitesmoke; padding: 10px}
+aside {
+    border: 5px dashed; 
+    background-color: whitesmoke; 
+    padding: 10px;
 
-footer { padding: 20px; font-family:Georgia, fantasy; }
+}
+
+footer {
+    padding: 20px; 
+    font-family: Georgia, fantasy;
+
+}
 
 main {
-    max-width: inherit; color:#ffff66;
+    max-width: inherit; 
+    color:#ffff66;
+
 }
 
-section {font-family: Georgia,fantasy, sans-serif; font-size: 17pxpx; padding: 10px }
+section {
+    font-family: Georgia,fantasy, sans-serif; 
+    font-size: 17pxpx; 
+    padding: 10px;
 
-header nav ul {display: inline;
 }
 
-figcaption {color: #f93; font-size: 20px}
+header nav ul {
+    display: inline;
+    
+}
 
-header nav ul li {display: inline; text-align: center}
+figcaption {
+    color: #f93;
+    font-size: 20px;
+
+}
+
+header nav ul li {
+    display: inline; 
+    text-align: center;
+
+}
 
 
 /* unvisited link */
 
 a:link {
-  color: red;
+    color: red;
+
 }
 
 /* visited link */
 a:visited {
-  color: green;
+    color: green;
+    
 }
 
 /* mouse over link */
 a:hover {
-  color: purple;
+    color: purple;
+    
 }
 
 /* selected link */
 a:active {
-  color: darkblue;
+    color: darkblue;
+}
